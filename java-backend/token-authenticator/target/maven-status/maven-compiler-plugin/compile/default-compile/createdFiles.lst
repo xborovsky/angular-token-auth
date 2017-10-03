@@ -1,0 +1,7 @@
+cz\marek_b\token\authenticator\service\UserService.class
+cz\marek_b\token\authenticator\security\LoginFilter.class
+cz\marek_b\token\authenticator\endpoint\LoginEndpoint.class
+cz\marek_b\token\authenticator\token\AppConfig.class
+cz\marek_b\token\authenticator\security\Secured.class
+cz\marek_b\token\authenticator\service\UserServiceImpl.class
+cz\marek_b\token\authenticator\endpoint\TestEndpoint.class
